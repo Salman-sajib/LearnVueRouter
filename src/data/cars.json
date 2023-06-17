@@ -1,0 +1,112 @@
+[
+  {
+      "id": 1,
+      "make": "Chevrolet",
+      "body": "coupe",
+      "price": 45323,
+      "year": 2020,
+      "contact": {
+        "dealer": "John Smith",
+        "number": "+1 (123) 456-7890"
+      }
+  },
+  {
+      "id": 2,
+      "make": "Buick",
+      "body": "sedan",
+      "price": 25422,
+      "year": 2016,
+      "contact": {
+        "dealer": "Emily Johnson",
+        "number": "+1 (234) 567-8901"
+      }
+  },
+  {
+      "id": 3,
+      "make": "Porsche",
+      "body": "SUV",
+      "price": 77693,
+      "year": 2018,
+      "contact": {
+        "dealer": "Michael Davis",
+        "number": "+1 (345) 678-9012"
+      }
+  },
+  {
+    "id": 4,
+    "make": "Mercedes-Benz",
+    "body": "Sedan",
+    "price": 987654,
+    "year": 2024,
+    "contact": {
+        "dealer": "Matthew Taylor",
+        "number": "+1 (789) 012-3456"
+      }
+  },
+  {
+      "id": 5,
+      "make": "Audi",
+      "body": "SUV",
+      "price": 12242,
+      "year": 2011,
+      "contact": {
+        "dealer": "Sarah Wilson",
+        "number": "+1 (456) 789-0123"
+      }
+  },
+  {
+      "id": 6,
+      "make": "Chevrolet",
+      "body": "coupe",
+      "price": 145323,
+      "year": 2023,
+      "contact": {
+        "dealer": "David Anderson",
+        "number": "+1 (567) 890-1234"
+      }
+  },
+  {
+      "id": 7,
+      "make": "Chevrolet",
+      "body": "SUV",
+      "price": 434,
+      "year": 2003,
+      "contact": {
+        "dealer": "Jessica Martinez",
+        "number": "+1 (678) 901-2345"
+      }
+  },
+  {
+      "id": 8,
+      "make": "Porsche",
+      "body": "Coupe",
+      "price": 277693,
+      "year": 2023,
+      "contact": {
+        "dealer": "Olivia Brown",
+        "number": "+1 (890) 123-4567"
+      }
+  },
+  {
+      "id": 9,
+      "make": "Audi",
+      "body": "sedan",
+      "price": 82242,
+      "year": 2019,
+      "contact": {
+        "dealer": "Daniel Thompson",
+        "number": "+1 (901) 234-5678"
+      }
+  },
+  {
+      "id": 10,
+      "make": "Chevrolet",
+      "body": "coupe",
+      "price": 45323,
+      "year": 2020,
+      "contact": {
+        "dealer": "Sophia Lewis",
+        "number": "+1 (012) 345-6789"
+      }
+  }
+]
